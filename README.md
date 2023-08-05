@@ -1,16 +1,5 @@
-# shop_app
+<img src="lib/screenShot/WhatsApp Image 2023-08-05 at 16.01.53.jpeg" width="300">
 
-A new Flutter project.
+<img src="lib/screenShot/WhatsApp Image 2023-08-05 at 16.01.52.jpeg" width="300">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
